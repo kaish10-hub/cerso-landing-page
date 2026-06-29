@@ -1,8 +1,7 @@
 # Cerso --- Business Landing Page
 
-A modern and responsive business landing page built using **HTML, CSS,
-and JavaScript** for showcasing digital services and helping small
-businesses establish their online presence.
+A modern and responsive business landing page developed for **Cerso** as part of my internship using **HTML, CSS, and JavaScript**. The project focuses on showcasing Cerso's services with a clean UI, responsive layout, and smooth user experience.
+
 
 ## ✨ Features
 
