@@ -280,25 +280,17 @@ img {
   margin-bottom: 16px;
 }
 
-.about-visual {
-  background: linear-gradient(135deg, #f1f5f9, #e2e8f0);
-  height: 320px;
-  border-radius: 16px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border: 1px solid rgba(0, 0, 0, 0.05);
+.about-visual{
+    height: 320px;
+    border-radius: 16px;
+    overflow: hidden;
 }
 
-.visual-box {
-  text-align: center;
-  color: var(--text-muted);
-}
-
-.visual-box i {
-  font-size: 48px;
-  color: var(--accent);
-  margin-bottom: 12px;
+.about-visual img{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+    border-radius:16px;
 }
 
 /* SERVICES */
