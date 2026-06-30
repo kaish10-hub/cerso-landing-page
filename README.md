@@ -2,7 +2,7 @@
 
 A modern and responsive business landing page developed for **Cerso** as part of my internship using **HTML, CSS, and JavaScript**. The project focuses on showcasing Cerso's services with a clean UI, responsive layout, and smooth user experience.
 
-[![Live Demo](https://img.shields.io/badge/Live-Preview-blue)](https://kaish10-hub.github.io/cerso-landing-page/)
+[![Live Demo](https://img.shields.io/badge/Live-Preview-blue)](https://cerso-landing-page.netlify.app/)
 
 ## ✨ Features
 
